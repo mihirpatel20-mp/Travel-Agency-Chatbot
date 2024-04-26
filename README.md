@@ -10,13 +10,11 @@ This tutorial provides two deployment options:
 ## Initial Setup:
 This repository contains the starter files.
 
-### Clone the repository and create a virtual environment:
-```bash
-$ git clone https://github.com/yourusername/travel-agency-chatbot.git
-$ cd travel-agency-chatbot
-$ python3 -m venv venv
-$ source venv/bin/activate
-```
+### Download the Project Zip File:
+
+Download the project zip file from the following link:  
+    [Travel Agency Chatbot Project Zip File](https://drive.google.com/file/d/1GUVIfqfnRMa-VvT9shZ1f1JFqcKqN2Pb/view?usp=sharing)
+
 
 ### Install dependencies:
 ```bash
@@ -44,10 +42,6 @@ $ (venv) python chat.py
 
 ### Now, for deployment, follow the tutorial to implement 'app.py' and 'app.js'.
 
-### Download the Project Zip File:
-
-Download the project zip file from the following link:  
-    [Travel Agency Chatbot Project Zip File](https://drive.google.com/file/d/1GUVIfqfnRMa-VvT9shZ1f1JFqcKqN2Pb/view?usp=sharing)
 
 ### Watch the Tutorial
 [![Alt text](https://img.youtube.com/vi/a37BL0stIuM/hqdefault.jpg)](https://youtu.be/a37BL0stIuM)  
