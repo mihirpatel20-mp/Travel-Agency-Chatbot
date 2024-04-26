@@ -1,8 +1,8 @@
 # Travel Agency Chatbot Deployment with Flask and JavaScript
 
-In this tutorial, we deploy the travel agency chatbot using Flask and JavaScript.
+In this project, I deployed the travel agency chatbot using Flask and JavaScript.
 
-This tutorial provides two deployment options:
+This project provides two deployment options:
 
 - Deploy within Flask app with Jinja2 template.
 - Serve only the Flask prediction API. The HTML and JavaScript files used can be included in any frontend application with slight modifications and can run completely separate from the Flask app.
