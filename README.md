@@ -54,7 +54,7 @@ In the video we implement the first approach using jinja2 templates within our F
 This repo was used for the frontend code:
 https://github.com/hitchcliff/front-end-chatjs
 
-Initially, I watched the tutorial linked above and made significant enhancements by following the provided guidance. The enhancements reflect my work while crediting the original resource.
+Initially, I watched the tutorial linked above and made significant enhancements by following the provided guidance. The enhancements reflect my work while crediting the original source.
 
 
 
